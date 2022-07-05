@@ -1,0 +1,16 @@
+[ {
+  "placa" : "MKV 0929",
+  "modelo" : "hb20",
+  "renavam" : 9872348,
+  "valor" : 25000.0
+}, {
+  "placa" : "BVC 0987",
+  "modelo" : "Civic",
+  "renavam" : 1122345,
+  "valor" : 45000.0
+}, {
+  "placa" : "AER 4567",
+  "modelo" : "Cross Fox",
+  "renavam" : 4098906,
+  "valor" : 45000.0
+} ]
